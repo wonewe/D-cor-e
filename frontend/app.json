@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "The Local Companion",
+    "slug": "local-companion",
+    "version": "0.1.0",
+    "sdkVersion": "50.0.0",
+    "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F9F7F3"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F9F7F3"
+      }
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "00000000-0000-0000-0000-000000000000"
+      }
+    }
+  }
+}
