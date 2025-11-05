@@ -5,7 +5,6 @@
     "version": "0.1.0",
     "sdkVersion": "54.0.0",
     "orientation": "portrait",
-    "icon": null,
     "userInterfaceStyle": "light",
     "splash": {
       "resizeMode": "contain",
