@@ -3,7 +3,7 @@
     "name": "The Local Companion",
     "slug": "local-companion",
     "version": "0.1.0",
-    "sdkVersion": "50.0.0",
+    "sdkVersion": "54.0.0",
     "orientation": "portrait",
     "icon": null,
     "userInterfaceStyle": "light",
@@ -27,6 +27,10 @@
       "eas": {
         "projectId": "00000000-0000-0000-0000-000000000000"
       }
-    }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-localization"
+    ]
   }
 }
