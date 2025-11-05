@@ -21,6 +21,7 @@
         "backgroundColor": "#F9F7F3"
       }
     },
+    "jsEngine": "hermes",
     "web": {},
     "extra": {
       "eas": {
